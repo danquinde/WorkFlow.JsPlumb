@@ -1,0 +1,25 @@
+
+            #flowchartWindowRequest {
+                top:  15em;
+                left: 20em;
+                background-image: url('../../img/process.png');
+                background-repeat: repeat-x;
+            }
+            #flowchartWindowApprove {
+                top:   6em;
+                left: 45em;
+                background-image: url('../../img/process.png');
+                background-repeat: repeat-x;
+            }
+            #flowchartWindowNotify {
+                top:  6em;
+                left: 75em;
+                background-image: url('../../img/notify.png');
+                background-repeat: repeat-x;
+            }
+            #flowchartWindowReview {
+                top:  25em;
+                left: 45em;
+                background-image: url('../../img/process.png');
+                background-repeat: repeat-x;
+            }
